@@ -1,6 +1,5 @@
-<p align="right">
-🇰🇷 [한국어 버전](./README.md) | 🇺🇸 [English Version](./README_EN.md)
-</p>
+[🇰🇷 한국어 버전](./README.md)  
+[🇺🇸 English Version](./README_EN.md)
 
 # TrendFusion AI
 
